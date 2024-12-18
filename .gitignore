@@ -1,0 +1,6 @@
+ai_receptionist_venv
+app/__pycache__
+app/token.pickle
+test.py
+main1.py
+.env
